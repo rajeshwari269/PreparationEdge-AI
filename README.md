@@ -116,7 +116,7 @@
 ---
 
 <h2 id='author'> 6. Author ✍️ </h2>
-<h3><samp>Abhinav Mishra – <a href="https://github.com/CoderUzumaki">@CoderUzumaki</a></samp></h3>
+<h3><samp>Rajeshwari Mandadi – <a href="https://github.com/CoderUzumaki">@CoderUzumaki</a></samp></h3>
 
 ---
 
