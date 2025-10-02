@@ -92,9 +92,7 @@
 
 <h2 id='contributions'> 5. Contribution 🤝 </h2>
 <p> 
-    <b> Contributions are Welcome! </b>
-    <br>
-    <b>PrepEdge</b> is proudly part of <b>GirlScript Summer of Code (GSSoC) 2025</b>, a nationwide open-source program aimed at encouraging more developers to contribute to meaningful projects.  <br><br>
+    
     We welcome <b>all contributions</b>—whether you're a beginner or an experienced developer! To get started:  <br>
     - 📘 <b>Read our <a href="./LEARN.md"> LEARN.md </a></b> to understand the project structure, features, and setup.  <br>
     - 📜 <b>Review the <a href="./CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a></b> to ensure a positive, respectful, and inclusive environment.  <br><br>
@@ -110,13 +108,10 @@
     
    ⚠️ Please ensure code is clean, readable, and follows the existing architecture.  
 
-   Happy contributing! 💻✨   
-</p>
+   Happy contributing! 💻✨   </p>
 
 ---
 
-<h2 id='author'> 6. Author ✍️ </h2>
-<h3><samp>Rajeshwari Mandadi – <a href="https://github.com/CoderUzumaki">@CoderUzumaki</a></samp></h3>
 
 ---
 
